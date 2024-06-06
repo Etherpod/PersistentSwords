@@ -33,7 +33,7 @@
 
   <ItemGroup>
     <Reference Include="UnityEngine.ParticleSystemModule">
-      <HintPath>bin\Debug\net472\UnityEngine.ParticleSystemModule.dll</HintPath>
+      <HintPath>UnityEngine.ParticleSystemModule.dll</HintPath>
     </Reference>
   </ItemGroup>
 

@@ -1,0 +1,12 @@
+dependencies = []
+incompatibilities = []
+
+[metadata]
+id = "com.etherpod.persistentswords"
+version = "1.0.0"
+title = "Persistent Swords"
+description = "A SpiderHeck mod that makes thrown particle blades last forever."
+authors = [
+    "Etherpod"
+]
+game_version = 1.6
